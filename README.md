@@ -48,4 +48,4 @@ cd scripts && ./start.sh
 
 ## License
 
-MIT © [Cuong Tran](https://github.com/103cuong)
+MIT © [Cuong Nguyen](https://www.linkedin.com/in/cuong9/)
