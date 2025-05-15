@@ -49,3 +49,8 @@ cd scripts && ./start.sh
 ## License
 
 MIT © [Cuong Nguyen](https://www.linkedin.com/in/cuong9/)
+
+<!-- INSPIRATIONAL_QUOTE_START -->
+Discomfort is the currency of your dreams.
+🦄
+<!-- INSPIRATIONAL_QUOTE_END -->
