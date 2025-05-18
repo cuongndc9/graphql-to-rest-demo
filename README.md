@@ -50,4 +50,3 @@ cd scripts && ./start.sh
 
 MIT © [Cuong Nguyen](https://www.linkedin.com/in/cuong9/)
 
-<!-- INSPIRATIONAL_QUOTE_START -->\nThe best way to predict the future is to create it.\n🦖\n<!-- INSPIRATIONAL_QUOTE_END -->
